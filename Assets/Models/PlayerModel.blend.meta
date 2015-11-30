@@ -6,9 +6,37 @@ ModelImporter:
   serializedVersion: 18
   fileIDToRecycleName:
     100000: //RootNode
+    100002: Arm_L
+    100004: Armature
+    100006: Chest
+    100008: Cube
+    100010: Feet_L
+    100012: Hand_L
+    100014: Head
+    100016: Leg_L
+    100018: Stomach
+    100020: Thigh_L
+    100022: Bone
+    100024: Hand_L_001
+    100026: Leg_L_001
     400000: //RootNode
+    400002: Arm_L
+    400004: Armature
+    400006: Chest
+    400008: Cube
+    400010: Feet_L
+    400012: Hand_L
+    400014: Head
+    400016: Leg_L
+    400018: Stomach
+    400020: Thigh_L
+    400022: Bone
+    400024: Hand_L_001
+    400026: Leg_L_001
     2300000: //RootNode
+    2300002: Cube
     3300000: //RootNode
+    3300002: Cube
     4300000: Cube
     7400000: Default Take
     9500000: //RootNode
