@@ -5,6 +5,10 @@
 Thumbs.db
 ehthumbs.db
 
+#Unity Ignore
+player_win_development_x64.pdb
+
+
 # Folder config file
 Desktop.ini
 

@@ -1,6 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Archery.CSharp.Plugins", "Archery.CSharp.Plugins.csproj", "{4F685AC2-4E87-B8A6-8EDC-A5FCA354580F}"
+EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Archery.CSharp", "Archery.CSharp.csproj", "{13511DCA-CF01-E84C-795E-6BCEEB522E62}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Archery.CSharp.Editor", "Archery.CSharp.Editor.csproj", "{161258D0-E0EB-66AD-646F-FB83A5663ADC}"
@@ -11,6 +13,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F685AC2-4E87-B8A6-8EDC-A5FCA354580F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F685AC2-4E87-B8A6-8EDC-A5FCA354580F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F685AC2-4E87-B8A6-8EDC-A5FCA354580F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F685AC2-4E87-B8A6-8EDC-A5FCA354580F}.Release|Any CPU.Build.0 = Release|Any CPU
 		{13511DCA-CF01-E84C-795E-6BCEEB522E62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{13511DCA-CF01-E84C-795E-6BCEEB522E62}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{13511DCA-CF01-E84C-795E-6BCEEB522E62}.Release|Any CPU.ActiveCfg = Release|Any CPU
